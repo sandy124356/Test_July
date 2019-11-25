@@ -1,0 +1,7 @@
+[error] C:\Users\u6062310\IdeaProjects\Test_July\project\July_7_sql.scala:2:15: ':' expected but identifier found.
+[error] def main(args Array[String]) {
+[error]               ^
+[error] C:\Users\u6062310\IdeaProjects\Test_July\project\July_7_sql.scala:5:1: identifier expected but '}' found.
+[error] }
+[error] ^
+[error] two errors found
